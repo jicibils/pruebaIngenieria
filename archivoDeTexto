@@ -1,7 +1,7 @@
 line 1
 diez
 echo "# pruebaIngenieria" >> README.md
-git init
+git git git git git git git git git git git git git git git git git
 git add README.md
 git commit -m "first commit"
 ################git remote add origin https://github.com/jicibils/pruebaIngenieria.git#######
